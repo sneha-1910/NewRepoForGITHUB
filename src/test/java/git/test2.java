@@ -7,6 +7,7 @@ public class test2 {
 
 		System.out.println("good");
 		System.out.println("bad");
+		System.out.println("average");
 	}
 
 }
